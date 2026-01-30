@@ -1,5 +1,8 @@
-panel
-shap
-watchfiles
-hvplot
+streamlit
+pandas
+numpy
+plotly
 scikit-learn
+scipy
+openpyxl
+matplotlib
